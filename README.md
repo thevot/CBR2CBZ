@@ -25,12 +25,12 @@ Uno script Batch per Windows ultra-robusto, veloce e sicuro per convertire gli a
 ### 🚀 Come Usarlo
 
 #### Metodo 1: Nella stessa cartella
-1. Scarica o copia il file `Converti_CBR_CBZ.bat`.
+1. Scarica o copia il file `CBR2CBZ.bat`.
 2. Posizionalo nella cartella contenente i file `.cbr`.
-3. Fai doppio clic su `Converti_CBR_CBZ.bat` e premi un tasto per avviare.
+3. Fai doppio clic su `CBR2CBZ.bat` e premi un tasto per avviare.
 
 #### Metodo 2: Drag & Drop
-1. Trascina una cartella (o un file `.cbr`) direttamente sopra l'icona dello script `Converti_CBR_CBZ.bat`.
+1. Trascina una cartella (o un file `.cbr`) direttamente sopra l'icona dello script `CBR2CBZ.bat`.
 
 ---
 
@@ -53,12 +53,12 @@ Uno script Batch per Windows ultra-robusto, veloce e sicuro per convertire gli a
 ### 🚀 How to Use
 
 #### Method 1: Inside the same directory
-1. Download or copy `Converti_CBR_CBZ.bat`.
+1. Download or copy `CBR2CBZ.bat`.
 2. Place it in the directory containing your `.cbr` files.
-3. Double-click `Converti_CBR_CBZ.bat` and press any key to start.
+3. Double-click `CBR2CBZ.bat` and press any key to start.
 
 #### Method 2: Drag & Drop
-1. Drag and drop any folder (or `.cbr` file) directly onto the `Converti_CBR_CBZ.bat` icon.
+1. Drag and drop any folder (or `.cbr` file) directly onto the `CBR2CBZ.bat` icon.
 
 ---
 
