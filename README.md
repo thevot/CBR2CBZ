@@ -31,12 +31,12 @@ Uno script Batch per Windows ultra-veloce, robusto e sicuro per convertire colle
 ### 🚀 Come Usarlo
 
 #### Metodo 1: Esecuzione in Cartella
-1. Scarica o copia il file `Converti_CBR_CBZ.bat`.
+1. Scarica o copia il file `CBR2CBZ.bat`.
 2. Posizionalo nella cartella contenente i file `.cbr` (funziona anche su percorsi di rete tipo `\\Server\Comics`).
 3. Fai doppio clic sul file `.bat` e premi un tasto per avviare la conversione.
 
 #### Metodo 2: Drag & Drop
-1. Trascina una cartella o un gruppo di file `.cbr` direttamente sopra l'icona di `Converti_CBR_CBZ.bat`.
+1. Trascina una cartella o un gruppo di file `.cbr` direttamente sopra l'icona di `CBR2CBZ.bat`.
 
 ---
 
@@ -65,12 +65,12 @@ Uno script Batch per Windows ultra-veloce, robusto e sicuro per convertire colle
 ### 🚀 How to Use
 
 #### Method 1: In-Folder Execution
-1. Download or copy `Converti_CBR_CBZ.bat`.
+1. Download or copy `CBR2CBZ.bat`.
 2. Place it inside the directory containing your `.cbr` files (works seamlessly on network paths like `\\Server\Comics`).
-3. Double-click `Converti_CBR_CBZ.bat` and press any key to start.
+3. Double-click `CBR2CBZ.bat` and press any key to start.
 
 #### Method 2: Drag & Drop
-1. Drag and drop any folder or `.cbr` file directly onto the `Converti_CBR_CBZ.bat` icon.
+1. Drag and drop any folder or `.cbr` file directly onto the `CBR2CBZ.bat` icon.
 
 ---
 
